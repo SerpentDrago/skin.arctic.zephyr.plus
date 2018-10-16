@@ -9,3 +9,5 @@ My Modfications to the Skin.arctic.zephyr.plus
 
 *Changed max widgets to 20 (original was 10) 
     (shortcuts/template.xml)
+
+Fixed ExtraInfo View type to work with Offical Youtube Plugin
